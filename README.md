@@ -61,8 +61,8 @@ vi /etc/hostname
 cat /etc/hostname
 ```
 
-### REG NUMBER: 212222240007
-### NAME: Aldrin Lijo  J E
+### REG NUMBER: 212222100023
+### NAME: Lokesh N
 
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/31760086-305c-40af-9894-c12f799ae6e2)
